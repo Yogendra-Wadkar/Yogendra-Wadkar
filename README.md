@@ -5,7 +5,7 @@
 
 <h3 align="center">Aspiring Data Scientist & Analyst : Proficient in Python, ML, Statistical Modeling, and Deep Learning. Crafting Insights 🚀 for Business Impact and Elevating Careers.</h3>
 
-<img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 
 - 🔭 I’m currently Studying Data Science and Analytics [Telecom-Customer-Churn-Prediction Using Machine Learning](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning)
