@@ -8,11 +8,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 
-- 🔭 I’m currently Studying Data Science and Analytics [Telecom-Customer-Churn-Prediction Using Machine Learning](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning)
+- 🔭 Data Science, Machine Learning: A Professional Edge  [Telecom-Customer-Churn-Prediction Using Machine Learning](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning)
 
 - 🌱 I’m currently learning **Deep learning, Open cv, and Natural Language Processing**
 
-- 🏹 Exciting project in my arsenal [RetailInsights: Unraveling Customer Dynamics with K-means Clustering](https://github.com/Yogendra-Wadkar/RetailInsights-Unraveling-Customer-Dynamics-with-K-means-Clustering.git)
+- 🏹 Exciting project in my arsenal  [RetailInsights: Unraveling Customer Dynamics with K-means Clustering](https://github.com/Yogendra-Wadkar/RetailInsights-Unraveling-Customer-Dynamics-with-K-means-Clustering.git)
 
 - 👨‍💻 All of my projects are available at [https://yogendrawadkar.my.canva.site/yogendra-portfolio](https://yogendrawadkar.my.canva.site/yogendra-portfolio)
 
