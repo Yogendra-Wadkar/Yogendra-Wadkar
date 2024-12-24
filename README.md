@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Machine learning, Data Analytics, python, Structure query language,**
 
-- 📫 How to reach me **yogendrawadkar999@gmail.com**
+- 📫 How to reach me **yogendra14wadkar@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yogendra-wadkar/](https://www.linkedin.com/in/yogendra-wadkar/)
 
